@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chains on Bring Your Own Keys Blog</title>
+    <link>https://blog.byokapp.xyz/tags/chains/</link>
+    <description>Recent content in Chains on Bring Your Own Keys Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © {year}. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 22 May 2023 16:30:01 -0400</lastBuildDate><atom:link href="https://blog.byokapp.xyz/tags/chains/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Known Chains</title>
+      <link>https://blog.byokapp.xyz/docs/setup/chains/</link>
+      <pubDate>Mon, 22 May 2023 16:30:01 -0400</pubDate>
+      
+      <guid>https://blog.byokapp.xyz/docs/setup/chains/</guid>
+      <description>🗝️ BYOK App is multi-chain by construction The following EVM chains are supported: - Ethereum - Polygon POS - Optimism - Arbitrum One. </description>
+    </item>
+    
+  </channel>
+</rss>

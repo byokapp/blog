@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keys on Bring Your Own Keys Blog</title>
+    <link>https://blog.byokapp.xyz/tags/keys/</link>
+    <description>Recent content in Keys on Bring Your Own Keys Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © {year}. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 22 May 2023 16:30:03 -0400</lastBuildDate><atom:link href="https://blog.byokapp.xyz/tags/keys/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Etherscan keys</title>
+      <link>https://blog.byokapp.xyz/docs/setup/keys/etherscan/</link>
+      <pubDate>Mon, 22 May 2023 16:30:03 -0400</pubDate>
+      
+      <guid>https://blog.byokapp.xyz/docs/setup/keys/etherscan/</guid>
+      <description>This guide show you how to find/obtain your Etherscan API private keys, and provide it securely.
+Funds are SAFU.
+The concept Etherscan refers generally to the various chain explorer APIs across EVM L1s as well as L2s.
+Etherscan refers to Ethereum Mainnet. PolygonScan refers to Polygon POS chain. Optimistic-Etherscan refers to Optimism. Arbiscan refers to Arbitrum One. </description>
+    </item>
+    
+    <item>
+      <title>Alchemy</title>
+      <link>https://blog.byokapp.xyz/docs/setup/keys/alchemy/</link>
+      <pubDate>Mon, 22 May 2023 16:30:02 -0400</pubDate>
+      
+      <guid>https://blog.byokapp.xyz/docs/setup/keys/alchemy/</guid>
+      <description>This guide will show you how to obtain/find your Alchemy private API key and provide it securely.
+Funds are SAFU.</description>
+    </item>
+    
+  </channel>
+</rss>

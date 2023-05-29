@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BYOK App - Bring Your Own Keys on Bring Your Own Keys Blog</title>
+    <link>https://blog.byokapp.xyz/</link>
+    <description>Recent content in BYOK App - Bring Your Own Keys on Bring Your Own Keys Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © {year}. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 22 May 2023 16:30:05 -0400</lastBuildDate><atom:link href="https://blog.byokapp.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial</title>
+      <link>https://blog.byokapp.xyz/blog/2023/05/tutorial/</link>
+      <pubDate>Mon, 22 May 2023 16:30:05 -0400</pubDate>
+      
+      <guid>https://blog.byokapp.xyz/blog/2023/05/tutorial/</guid>
+      <description>&lt;p&gt;A simple tutorial, please refer to the &lt;a
+  href=&#34;https://blog.byokapp.xyz/docs/&#34;
+  
+  &gt;documentation&lt;/a&gt; for more details.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Add your wallets</title>
+      <link>https://blog.byokapp.xyz/docs/setup/wallets/</link>
+      <pubDate>Mon, 22 May 2023 16:30:04 -0400</pubDate>
+      
+      <guid>https://blog.byokapp.xyz/docs/setup/wallets/</guid>
+      <description>Add your wallet by ENS name, or Ethereum EVM address. The name is your choice, for display purposes only.
+The address is never stored on a centralized server. It stays in your browser&amp;rsquo;s localStorage only, and gets sent to the data providers (e.g., Alchemy, Etherscan) when we request any blockchain data for the first time.</description>
+    </item>
+    
+    <item>
+      <title>Etherscan keys</title>
+      <link>https://blog.byokapp.xyz/docs/setup/keys/etherscan/</link>
+      <pubDate>Mon, 22 May 2023 16:30:03 -0400</pubDate>
+      
+      <guid>https://blog.byokapp.xyz/docs/setup/keys/etherscan/</guid>
+      <description>This guide show you how to find/obtain your Etherscan API private keys, and provide it securely.
+Funds are SAFU.
+The concept Etherscan refers generally to the various chain explorer APIs across EVM L1s as well as L2s.
+Etherscan refers to Ethereum Mainnet. PolygonScan refers to Polygon POS chain. Optimistic-Etherscan refers to Optimism. Arbiscan refers to Arbitrum One. </description>
+    </item>
+    
+    <item>
+      <title>Alchemy</title>
+      <link>https://blog.byokapp.xyz/docs/setup/keys/alchemy/</link>
+      <pubDate>Mon, 22 May 2023 16:30:02 -0400</pubDate>
+      
+      <guid>https://blog.byokapp.xyz/docs/setup/keys/alchemy/</guid>
+      <description>This guide will show you how to obtain/find your Alchemy private API key and provide it securely.
+Funds are SAFU.</description>
+    </item>
+    
+    <item>
+      <title>Known Chains</title>
+      <link>https://blog.byokapp.xyz/docs/setup/chains/</link>
+      <pubDate>Mon, 22 May 2023 16:30:01 -0400</pubDate>
+      
+      <guid>https://blog.byokapp.xyz/docs/setup/chains/</guid>
+      <description>🗝️ BYOK App is multi-chain by construction The following EVM chains are supported: - Ethereum - Polygon POS - Optimism - Arbitrum One. </description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://blog.byokapp.xyz/docs/introduction/</link>
+      <pubDate>Mon, 22 May 2023 16:30:00 -0400</pubDate>
+      
+      <guid>https://blog.byokapp.xyz/docs/introduction/</guid>
+      <description>(AI-generated) Image courtesy Lexica. prompt: a black background with a frame of keys
+Gm Crypto values: - Transparency - Decentralization - Composability </description>
+    </item>
+    
+  </channel>
+</rss>
